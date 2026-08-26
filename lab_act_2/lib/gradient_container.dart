@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main(){}
 class GradientContainer extends StatelessWidget{
   GradientContainer({super.key});
   @override
