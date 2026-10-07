@@ -9,9 +9,9 @@ class StyledText extends StatelessWidget {
         text,
         style: TextStyle(
         fontSize: 25,
-        color: Colors.yellowAccent
+        color: const Color.fromARGB(255, 9, 255, 0)
           ),
         );
   }
 }
- 
+
